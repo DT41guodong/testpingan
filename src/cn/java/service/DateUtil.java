@@ -9,4 +9,7 @@ public class DateUtil {
 	public final static String STATE_0="0";
 	
 	public final static String STATE_1="1";
-}
+	
+	public final static boolean flag1=false;
+	
+	public final static boolean flag2=false;
