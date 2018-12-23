@@ -17,4 +17,6 @@ public class DateUtil {
 	public final static String STATE_3="3";
 	
 	public final static String STATE_4="4";
+	
+	public final static String STATE_6="6";
 }
