@@ -1,8 +1,6 @@
 package cn.java.service;
 
 public class DateUtil {
-
-	public final static String node="1";
 	
 	public final static String FINAL_CURRECY_NODE="CNY";
 	
@@ -13,4 +11,8 @@ public class DateUtil {
 	public final static boolean flag3=false;
 	
 	public final static String FINAL_STATE="1";
+
+	public final static int a=2,b=1;
+	
+	public final static int c=2,d=1;
 }
