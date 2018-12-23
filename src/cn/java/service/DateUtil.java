@@ -12,5 +12,5 @@ public class DateUtil {
 	
 	public final static boolean flag3=false;
 	
-	public final static int a=2,b=1;
+	public final static String FINAL_STATE="1";
 }
