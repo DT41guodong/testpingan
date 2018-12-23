@@ -13,3 +13,5 @@ public class DateUtil {
 	public final static boolean flag1=false;
 	
 	public final static boolean flag2=false;
+	
+}
