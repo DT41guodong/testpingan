@@ -15,4 +15,6 @@ public class DateUtil {
 	public final static int a=2,b=1;
 	
 	public final static int c=2,d=1;
+	
+	public final static int e=1;
 }
